@@ -1,0 +1,46 @@
+body{
+	color: #666;
+	background-color: #F0F0F0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.container{
+	width: 800px;
+	min-height: 600px;
+	margin: auto;
+	padding: 20px;
+	background-color: #FFF;
+	border: solid 1px #CCC;
+}
+.center{
+	text-align: center;
+}
+.form input{
+	width: 80%;
+	padding: 6px;
+}
+.footer{
+	font-size: 14px;
+}
+#resultados{
+	min-height: 290px;
+}
+.art{
+	margin-bottom: 10px;
+	background-color: #F1F1F1;
+	padding: 5px;
+}
+.art a{
+	text-decoration: none;
+}
+.titulo{
+	font-size: 22px;
+	text-transform: uppercase;
+}
+.contenido{
+	font-size: 16px;
+	color: #666;
+}
+.contenido a{
+	font-size: 16px;
+	color: #666;
+}
