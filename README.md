@@ -15,7 +15,7 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="http://naarean.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->Buscador AJAX similar a Google</h3>
@@ -41,6 +41,7 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Contact](#contact)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -48,7 +49,6 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -61,6 +61,14 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `sergioalegre`, `repo`, `twitter_handle`, `email`
+
+
+<!-- CONTACT -->
+## Contact
+
+Email: sergio.alegre.arribas EN gmail.com
+<br>
+LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 
 ### Built With
@@ -85,14 +93,10 @@ Here's a blank template to get started:
 ---
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+---
 
 
 <!-- ROADMAP -->
@@ -126,6 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Email: sergio.alegre.arribas EN gmail.com
+<br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 
