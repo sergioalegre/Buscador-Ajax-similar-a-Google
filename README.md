@@ -1,5 +1,5 @@
 <!--
-REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
+REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TECNOLOGIAS
 -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -21,7 +21,7 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
   <h3 align="center"><!-- TITULO -->Buscador AJAX similar a Google</h3>
 
   <p align="center">
-    <!-- DESCRIPCION -->YOUR_SHORT_DESCRIPTION
+    <!-- DESCRIPCION -->Buscador con AJAX y JQuery similar a Google para backend en MySQL
     <br />
     <a href="https://github.com/sergioalegre/repo"><strong>Explore the docs »</strong></a>
     <br />
@@ -51,16 +51,11 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DEMO, TECNOLOGIAS
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`sergioalegre`, `repo`, `twitter_handle`, `email`
+<!-- DESCRIPCION2 --> <!-- DEMO -->
+Buscador con AJAX y JQuery similar a Google para backend en MySQL.  <a href="http://naarean.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
 
 
 <!-- CONTACT -->
@@ -75,8 +70,8 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 <!-- TECNOLOGIAS -->
 * [PHP](PHP)
 * [AJAX](AJAX)
-* []()
-
+* [JQUERY](JQUERY)
+* [MYSQL](MYSQL)
 
 
 <!-- GETTING STARTED -->
@@ -92,19 +87,15 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
  
 ---
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 ---
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
 ---
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -117,14 +108,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -144,16 +131,16 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sergioalegre/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/sergioalegre/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sergioalegre/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/sergioalegre/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/sergioalegre/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/sergioalegre/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sergioalegre/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/sergioalegre/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/sergioalegre/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/sergioalegre/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/sergioalegre
 [product-screenshot]: images/screenshot.png
