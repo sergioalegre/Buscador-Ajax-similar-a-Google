@@ -53,7 +53,7 @@ REEMPLAZAR: github_username, repo, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TECN
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](http://naarean.es/Programacion/_BuscadorAJAX/captura.png)
 <!-- DESCRIPCION2 --> <!-- DEMO -->
 Buscador con AJAX y JQuery similar a Google para backend en MySQL.  <a href="http://naarean.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
 
