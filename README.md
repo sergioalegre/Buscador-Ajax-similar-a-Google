@@ -110,4 +110,4 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sergioalegre
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: captura.PNG
