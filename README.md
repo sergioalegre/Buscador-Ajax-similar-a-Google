@@ -34,8 +34,8 @@ REEMPLAZAR: github_username, Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION
 ## About The Project & Demo link
 <!-- DESCRIPCION2 --> <!-- DEMO -->
 Buscador con AJAX y JQuery similar a Google para backend en MySQL.  <a href="http://naarean.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
-<br>
-<a href="https://github.com/sergioalegre/Buscador-Ajax-similar-a-Google">
+<br><br>
+<a href="http://naarean.es/Programacion/_BuscadorAJAX/">
   <img src="http://naarean.es/Programacion/_BuscadorAJAX/captura.PNG" alt="Logo" width="360" height="">
 </a>
 
