@@ -22,7 +22,7 @@
 			</form>
 		</div>
 		<div id="resultados"></div>
-		<div class="footer center">Sergio Alegre - <a href="https://twitter.com/naarean">@naarean</a> - <a href="https://github.com/sergioalegre">github.com/sergioalegre</a></div>
+		<div class="footer center">Sergio Alegre - <a href="https://twitter.com/naarean">@naarean</a> - <a href="https://github.com/sergioalegre">github.com/sergioalegre</a> - <a href="https://www.linkedin.com/in/sergioalegre">LinkedIN</a></div>
 	</div>
 </body>
 </html>
