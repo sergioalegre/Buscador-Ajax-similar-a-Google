@@ -18,7 +18,7 @@ REEMPLAZAR: github_username, Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION
     <a href="https://github.com/sergioalegre/Buscador-Ajax-similar-a-Google"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- DEMO --><a href="http://naarean.es/Programacion/_BuscadorAJAX/">View Demo</a>
+    <!-- DEMO --><a href="http://sergioalegre.es/Programacion/_BuscadorAJAX/">View Demo</a>
     ·
     <a href="https://github.com/sergioalegre/Buscador-Ajax-similar-a-Google/issues">Report Bug</a>
     ·
@@ -30,7 +30,7 @@ REEMPLAZAR: github_username, Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION
 <!-- ABOUT THE PROJECT -->
 ## About The Project & Demo link
 <!-- DESCRIPCION2 --> <!-- DEMO -->
-Buscador con AJAX y JQuery similar a Google para backend en MySQL.  <a href="http://naarean.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
+Buscador con AJAX y JQuery similar a Google para backend en MySQL.  <a href="http://sergioalegre.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
 <br><br>
 <p align="center">
   <a href="http://sergioalegre.es/Programacion/_BuscadorAJAX/">
@@ -62,7 +62,6 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 ---
 
 ### Installation
-
 ---
 
 <!-- USAGE EXAMPLES -->
