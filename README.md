@@ -7,7 +7,7 @@ REEMPLAZAR: github_username, Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/Buscador-Ajax-similar-a-Google">
-    <img src="http://naarean.es/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->Buscador AJAX similar a Google</h3>
@@ -33,8 +33,8 @@ REEMPLAZAR: github_username, Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION
 Buscador con AJAX y JQuery similar a Google para backend en MySQL.  <a href="http://naarean.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
 <br><br>
 <p align="center">
-  <a href="http://naarean.es/Programacion/_BuscadorAJAX/">
-    <img src="http://naarean.es/Programacion/_BuscadorAJAX/captura.PNG" alt="Logo" width="360" height="">
+  <a href="http://sergioalegre.es/Programacion/_BuscadorAJAX/">
+    <img src="http://sergioalegre.es/Programacion/_BuscadorAJAX/captura.PNG" alt="Logo" width="360" height="">
   </a>
 </p>
 
@@ -48,10 +48,10 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 ### Built With
 <!-- TECNOLOGIAS -->
-* [PHP](PHP)
-* [AJAX](AJAX)
-* [JQUERY](JQUERY)
-* [MYSQL](MYSQL)
+* PHP
+* AJAX
+* JQUERY
+* MYSQL
 
 
 <!-- GETTING STARTED -->
@@ -92,13 +92,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* []()
-* []()
-* []()
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
